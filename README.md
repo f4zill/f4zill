@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @frankyy
-- 👀 I’m interested in web dev and database
-- 🌱 I’m currently learning web dev(html and css)
+- 👀 I’m interested in web dev and Algorithms
 - 😄 Pronouns: he/him
 
 <!---
