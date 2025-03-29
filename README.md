@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m @frankyy<br>- 👀 I’m working on web applications and its algorithms<br>- 😄 I'm still floating in the machine learning dimenion
+- 👋 Hi, I’m @fazill<br>- 👀 I’m working on web applications and its algorithms<br>- 😄 I'm still floating in the machine learning dimenion
 
 
 ## 🌐 Socials:
