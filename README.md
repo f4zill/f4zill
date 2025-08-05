@@ -1,5 +1,5 @@
 # I'M Fazil 
-- 👋you may recognize me as frankyy<br>- 👀 I’m working on web applications and few AI related projects<br>- 😄 I'm still floating in the machine learning dimenion
+- 👋you may recognize me as Frostbee <br>- 👀 I’m working on web applications and few AI related projects<br>- 😄 I'm still floating in the machine learning dimenion
 
 
 ## 🌐 Socials:
